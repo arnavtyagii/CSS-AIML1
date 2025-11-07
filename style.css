@@ -1,4 +1,4 @@
-p {
+/* p {
     color: blue;
     background-color: red;
     text-align: center;
@@ -11,4 +11,57 @@ p {
 
 #jk {
     font-size: 25px;
+} */
+
+/* div {
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 100px;
+
+} */
+div {
+    margin: 20px;
+}
+
+.box12 {
+    border: 20px dashed maroon;
+
+}
+
+.box34 {
+    border: 25px dotted aqua;
+
+}
+
+#box1 {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    padding: 15px;
+}
+
+#box2 {
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    padding: 20px;
+
+}
+
+#box3 {
+    height: 250px;
+    width: 250px;
+    background-color: blue;
+    padding: 25px;
+
+}
+
+#box4 {
+    height: 300px;
+    width: 300px;
+    background-color: turquoise;
+    padding: 50px;
 }
