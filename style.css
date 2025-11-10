@@ -1,4 +1,4 @@
-/* p {
+/*  p {
     color: blue;
     background-color: red;
     text-align: center;
@@ -21,7 +21,7 @@
     border: 1px solid black;
     margin: 100px;
 
-} */
+} 
 div {
     margin: 20px;
 }
@@ -85,4 +85,39 @@ p {
     margin: 100px;
     height: 100px;
     width: 1000px;
+} */
+
+/* div {
+    border: solid black 5px;
+}
+#head{
+    background-color: aquamarine;
+}
+#para{
+    background-color: lawngreen;
+} */
+
+#parent{
+    border: 2px solid black;
+    padding: 10px;
+    margin-right: 850px;
+}
+.box{
+    height: 200px;
+    width: 100px;
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    
+}
+#box1{
+    background-color: chartreuse;
+   
+}
+#box2{
+    background-color: crimson;
+}
+#box3{
+    background-color: aquamarine;
 }
